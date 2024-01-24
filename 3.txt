@@ -1,0 +1,4 @@
+     UID     PID    PPID  TTY        STIME COMMAND
+  Lenovo     746     745 pty0     09:42:19 /usr/bin/bash
+  Lenovo     935     746 pty0     11:57:37 /usr/bin/ps
+  Lenovo     745       1 ?        09:42:19 /usr/bin/mintty
